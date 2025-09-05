@@ -3,7 +3,10 @@
 ## Hi! There  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Sharoof Khan
 
 <a href="https://www.linkedin.com/in/sharoof-khan-0703/" target="_blank">
-  <img align="left" alt="Sharoof Khan LinkedIn" width="40px" src="https://img.icons8.com/color/48/linkedin.png" />
+  <img align="left" alt="Sharoof Khan LinkedIn" width="40px" src="https://img.icons8.com/?size=100&id=8808&format=png&color=FFFFFF" />
+</a>
+<a href="https://github.com/sharoof-khan" target="_blank">
+  <img align="left" alt="Sharoof Khan GitHub" width="40px" src="https://img.icons8.com/?size=100&id=12599&format=png&color=FFFFFF" />
 </a>
 <!-- <a href="https://twitter.com/Sharoof_Khan73">
   <img align="left" alt="Sharoof Khan | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
