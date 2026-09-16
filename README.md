@@ -6,7 +6,7 @@ Frontend Engineer | React | Next.js | Performance-Focused UI Systems
 
 ## 🚀 About
 
-Frontend Engineer with 3.5+ years of experience building **high-performance, data-intensive web applications**.
+Frontend Engineer with 4+ years of experience building **high-performance, data-intensive web applications**.
 
 I specialize in:
 - Optimizing large-scale UI rendering (10k+ datasets)
